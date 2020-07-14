@@ -5,8 +5,11 @@ Write a function that returns the number of sock pairs he has. A socks pair cons
 the same letter, such as "AA". The socks are represented as an unordered sequence.
 
 Examples:
+
 sockPairs("AA") ➞ 1
+
 sockPairs("ABABC") ➞ 2
+
 sockPairs("CABBACCC") ➞ 4
 
 Notes:
